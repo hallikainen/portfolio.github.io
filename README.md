@@ -113,7 +113,7 @@ _2004_ | Helsinki, Finland
 
 ## Download documents as PDF
 
-<p>/1/ Cover Letter: https://drive.google.com/file/d/1n4DjN7nsWgJ8PzzkqLvR942CNGYPweI5/view?usp=sharing</p>
+<p>/1/ Cover Letter and Portfolio: https://drive.google.com/file/d/1F5qBgr0u8uEMgr5wHJSCEjkw-oB8pug5/view?usp=sharing</p>
 <p>/2/ Curriculum Vitae: https://drive.google.com/file/d/1DqDdTnuM3z33NuwSKeGOfsP8n83WGnPr/view?usp=sharing</p>
 
 
