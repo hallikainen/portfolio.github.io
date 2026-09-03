@@ -10,7 +10,8 @@
 
 <p>----------------------------------------------------------------------------------</p>
 
-## Professional Summary
+## CORE CAPABILITIES & IMPACT
+
 <p>Throughout my 25+ year career with scaling technology businesses and advising C-suite executives across the Nordics , I have proven a track record that technology is not a cost center — it is the single greatest engine for corporate valuation, revenue acceleration, and margin expansion. I am bringing my proven execution capability for the position to bring this exact commercial velocity and strategic foresight to your organization.</p>
 
 <p>My leadership capability anchors on three pillars that directly translate to immediate impact:</p>
@@ -23,14 +24,14 @@
 
 <p>True AI transformation is not about pilots; it is about rewriting the corporate operating model. I have spent decades pioneering complex technology waves. Notably, I engineered the automated decision systems that served as the architecture for modern Agentic AI models , and architected Finland’s first fully digital insurance company. My approach balances aggressive, cutting-edge AI adoption with rigorous governance and risk management, ensuring the enterprise scales responsibly, securely, and profitably.</p>
 
-**<p>3. Aggressive Business Growth & High-Value Deal Making</p>**
+**<p>3. Progressive Business Growth & High-Value Deal Making</p>**
 
 <p>I have consistently run highly profitable operations, commanding full P&L accountability and building high-growth regional consulting practices. My commercial track record includes:</p>
 
-  <p>- Scaling Strategic Portfolios: Expanded flagship accounts by +66% (€12M to €20M) through aggressive transformation program execution.</p>
+  <p>- Scaling Strategic Portfolios: Expanded flagship accounts by +66% (€12M to €20M) through progressive transformation program execution.</p>
   <p>- Driving Top-Line Velocity: Delivered +40% sales growth YoY and 70% revenue growth over three years in the Nordics sector.</p>
   <p>- Architecting Landmark Transactions: Structured, negotiated, and closed a €180M Joint Venture deal—one of the largest technology transactions in Finland’s corporate history.</p>
-  <p>- A modern leader must be a visionary strategist, an iron-disciplined operator, and an elite commercial dealmaker. I brought all three. I am deeply committed to mobilizing high-performing, cross-border teams and leveraging strong ecosystem partnerships (such as Microsoft and Accenture) to position your enterprise as the undisputed leader in its market.</p>
+  <p>A modern leader must be a visionary strategist, an iron-disciplined operator, and an elite commercial dealmaker. I brought all three. I am deeply committed to mobilizing high-performing, cross-border teams and leveraging strong ecosystem partnerships (such as Microsoft and Accenture) to position your enterprise as the undisputed leader in its market.</p>
 <p>----------------------------------------------------------------------------------</p>
 
 ## Experience
